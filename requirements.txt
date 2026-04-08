@@ -1,0 +1,9 @@
+pdfplumber
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-core
+chromadb
+python-dotenv
+google-genai
